@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 ### To start the Project
 1. Clone the repository: 
    ```
-   git clone https://github.com/Rohail30/Coffee-Delivery.git
+   https://github.com/Iqbalshah786/Coffee-Delivery.git
    ```
 2. Install dependencies:
    ```
